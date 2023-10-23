@@ -1,0 +1,6 @@
+﻿  10.23.c
+E:\desk\leetcode\10.23\10.23\10.23.c(4,12): warning C4101: “i”: 未引用的局部变量
+E:\desk\leetcode\10.23\10.23\10.23.c(18,33): warning C4047: “函数”:“char **”与“int [1][15]”的间接级别不同
+E:\desk\leetcode\10.23\10.23\10.23.c(18,26): warning C4024: “countSeniors”: 形参和实参 1 的类型不同
+E:\desk\leetcode\10.23\10.23\10.23.c(16,1): warning C4047: “初始化”:“int”与“char [16]”的间接级别不同
+  10.23.vcxproj -> E:\desk\leetcode\10.23\Debug\10.23.exe
